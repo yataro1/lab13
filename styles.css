@@ -1,0 +1,36 @@
+.bg-img1 {
+  height: 700px;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://images.unsplash.com/photo-1689644917165-77ac0b422fe3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80);
+}
+
+.bg-img2 {
+  height: 700px;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://images.unsplash.com/photo-1689656966481-043a970b7c76?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80);
+}
+
+.bg-img3 {
+  height: 700px;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://images.unsplash.com/photo-1678434763328-a20bae5940a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80);
+}
+
+.carousel-item h1,
+p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-item .container {
+  width: 70%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 4rem;
+}
